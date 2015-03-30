@@ -15,3 +15,4 @@ accounts-ui-unstyled
 velocity:html-reporter
 velocity:meteor-stubs
 wolves:bourbon
+sacha:spin
