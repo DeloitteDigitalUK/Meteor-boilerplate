@@ -5,6 +5,8 @@ This repo contains a boilerplate template for the [Meteor framework](https://www
 ### How to use it
 
 ```
+# If meteor is already installed on your machine jump to the git clone step
+
 > curl https://install.meteor.com | /bin/sh
 > git clone https://avallverdu@bitbucket.org/avallverdu/boilerplate-meteor.git <your_project_name>
 > cd <your_project_name>
