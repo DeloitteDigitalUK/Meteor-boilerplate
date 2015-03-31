@@ -8,7 +8,7 @@ This repo contains a boilerplate template for the [Meteor framework](https://www
 # If meteor is already installed on your machine jump to the git clone step
 
 > curl https://install.meteor.com | /bin/sh
-> git clone https://avallverdu@bitbucket.org/avallverdu/boilerplate-meteor.git <your_project_name>
+> git clone https://github.com/DeloitteDigitalUK/Meteor-boilerplate.git <your_project_name>
 > cd <your_project_name>
 
 # Running the tests
